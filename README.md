@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jaballadares
-- 👀 I’m interested in ideas and bringing them to life.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to for folks intersted in collaborating or project based learning
+👋 Hi, I’m @Jaballadares
+I am just an exasperated marketer who finds refuge in code
+
 
 
 <!---
